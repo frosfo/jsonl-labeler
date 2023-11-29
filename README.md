@@ -1,4 +1,6 @@
+All of this rep is what they let available at the freelance application, with exception of my run.py script, after running it the script does basically what is asked on the lines below, that contain what client was asking before I could apply ;-;
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 The files for this folder are arranged as follows:
 - Data to work on:
